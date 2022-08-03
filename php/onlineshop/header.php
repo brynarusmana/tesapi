@@ -110,7 +110,7 @@ session_start();
     }
         
 
-       
+      
         
         </style>
 
@@ -162,7 +162,21 @@ session_start();
 			</div>
 			<!-- /TOP HEADER -->
 			
-			
+			<style>
+.tombol1{
+    color:red;
+    background-color: blue;
+}
+
+
+span{
+    background-color: green;
+}
+
+#tombol2{
+    background-color: yellow;
+}
+				</style>
 
 			<!-- MAIN HEADER -->
 			<div id="header">
@@ -174,7 +188,10 @@ session_start();
 						<div class="col-md-3">
 							<div class="header-logo">
 								<a href="#" class="logo">
-								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif"><a style="color:red">Ecommerce App</a>
+									<span>
+										tes css
+						</span>
+								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif"><a style="color:red">Contoh Toko Online</a>
                                     </font>
 									
 								</a>
